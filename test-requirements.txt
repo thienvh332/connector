@@ -1,0 +1,1 @@
+odoo-addon-connector @ git+https://github.com/thienvh332/connector.git@refs/pull/1/head#subdirectory=connector
